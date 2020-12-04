@@ -1,0 +1,10 @@
+{
+  "autoload": {
+    "files": [
+      "laravelMix.php"
+    ]
+  },
+  "require": {
+    "ext-json": "*"
+  }
+}
